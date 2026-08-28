@@ -1,4 +1,4 @@
-# netforenics-ai
+# desconf-IA
 ---
 
 Is a system that analyzes data and presents results to assist users in evaluating the reliability of information about financial scams.
