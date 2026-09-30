@@ -35,17 +35,17 @@ with st.sidebar:
     st.markdown("Conheça outras soluções nossas...:")
 
     # Link para o site da "company"....
-    st.markdown("🔗 [Company](https://www.company.com.br)")
+    st.markdown("🔗 [Company](https://www.desconfIAproject.com.br)")
     
     # Botão de link para enviar e-mail ao suporte da Company
-    st.link_button(" E-mail Para o Suporte Company no Caso de Dúvidas", "mailto:suporte@company.com.br")
+    st.link_button(" E-mail Para o Suporte Company no Caso de Dúvidas", "mailto:suporte@desconfIAproject.com.br")
 
 
 # Título principal do app
-st.title("")
+st.title("Desconf-IA Project: ")
 
 # Subtítulo adicional
-st.title("Assistente Pessoal de...")
+st.subheader("Assistente Pessoal de...")
 
 # Texto auxiliar abaixo do título
 st.caption("Faça sua pergunta sobre..., explicações e referências.")
