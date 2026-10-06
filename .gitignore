@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model artifacts (kept outside Git)
+modelo_extraid/
