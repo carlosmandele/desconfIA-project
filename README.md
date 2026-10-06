@@ -3,7 +3,7 @@
 Is a system that analyzes data and presents results to assist users in evaluating the reliability of information about financial scams.
  - The goal is to analyze data and provide results to support the verification of financial scams conveyed in diverse media, preserving human critical thinking.
 
-O aplicativo desconfIAnanalisa o texto de uma mensagem e estima a probabilidade de ela ser smishing (golpe por SMS). O resultado é uma indicação automatizada e não substitui a avaliação do usuário.
+O aplicativo desconfI analisa o texto de uma mensagem e estima a probabilidade de ela ser smishing (golpe por SMS). O resultado é uma indicação automatizada e não substitui a avaliação do usuário.
 
 ## Requisitos
 
